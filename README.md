@@ -22,8 +22,10 @@ This project uses **LangGraph** as the backbone for modular orchestration and in
 
 - **Python**: `3.8+`
 - **APIs & Keys**:
-  - [OpenAI API](https://platform.openai.com/account/api-keys)
   - [OpenWeather API](https://openweathermap.org/api)
   - [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview)
   - [ExchangeRate API](https://www.exchangerate-api.com/)
 
+---
+## Demo Video
+[demo]()
